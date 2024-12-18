@@ -16,36 +16,31 @@ function Techstack() {
     },
     {
         _id: 3,
-        name: "JAVASCRIPT",
-        // icon: SiJavascript,
-    },
-    {
-        _id: 4,
         name: "REACT JS",
         // icon: SiReact,
     },
     {
-        _id: 5,
+        _id: 4,
         name: "NODE JS",
         // icon: FaNodeJs,
     },
     {
-        _id: 6,
+        _id: 5,
         name: "EXPRESS JS",
         // icon: SiExpress,
     },
     {
-        _id: 7,
+        _id: 6,
         name: "MONGODB",
         // icon: SiMongodb,
     },
     {
-        _id: 8,
+        _id: 7,
         name: "BOOTSTRAP",
         // icon: SiBootstrap,
     },
     {
-        _id: 9,
+        _id: 8,
         name: "TAILWINDCSS",
         // icon: SiTailwindcss,
     },

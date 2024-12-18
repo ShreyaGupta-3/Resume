@@ -18,7 +18,7 @@ function Home() {
     <>
       <div
         name="Home"
-        className="max-w-screen-2xl container mx-auto px-4 md:px-20 pt-40 pb-20 bg-blue-100 "
+        className="max-w-screen-2xl container mx-auto px-4 md:px-20 pt-40 pb-20 bg-blue-300 "
       >
         <div className="flex flex-col md:flex-row items-center justify-center">
           <div className="md:w-1/2 mt-20 mb-20 md:mt-24 space-y-2 ">
@@ -66,10 +66,10 @@ function Home() {
               <div className=" space-y-2">
                 <h1 className="font-bold text-center">Currently working on</h1>
                 <div className="flex space-x-5">
-                  <SiMongodb className="text-2xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer" />
-                  <SiExpress className="text-2xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer" />
-                  <FaReact className="text-2xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer" />
-                  <FaNodeJs className="text-2xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer" />
+                  <SiMongodb className="text-2xl md:text-3xl hover:scale-110 duration-200 cursor-pointer" />
+                  <SiExpress className="text-2xl md:text-3xl hover:scale-110 duration-200 cursor-pointer" />
+                  <FaReact className="text-2xl md:text-3xl hover:scale-110 duration-200 cursor-pointer" />
+                  <FaNodeJs className="text-2xl md:text-3xl hover:scale-110 duration-200 cursor-pointer" />
                 </div>
               </div>
             </div>

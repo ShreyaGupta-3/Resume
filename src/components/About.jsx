@@ -13,9 +13,7 @@ function About() {
                     <br />
                     From designing responsive user interfaces to implementing robust server-side logic. My goal is to build applications that deliver seamless user experiences while maintaining high performance and reliability.
                 </p>
-                <br />
-                <br />
-                <h1 className="text-green-600 font-semibold text-xl">
+                {/* <h1 className="text-green-600 font-semibold text-xl">
                     Skills & Expertise
                 </h1>
                 <span>
@@ -29,8 +27,8 @@ function About() {
                     Proficient in schema design and database modeling.Experience with CRUD operations, aggregations, and indexing for optimization.Knowledge of MongoDB Atlas for cloud-based database solutions.
                     Understanding of Mongoose for schema-based modeling in Node.js.
 
-                </span>
-                <br />
+                </span> */}
+                
                 <br />
                 <h1 className="pt-10 text-3xl font-bold mb-5 ">Contact Details</h1>
               <div className="contact-details">

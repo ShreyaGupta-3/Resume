@@ -45,7 +45,7 @@ function Contact() {
               <label className="block text-gray-900">Name</label>
               <input
                 {...register("name", { required: true })}
-                className="shadow rounded-lg appearance-none border  py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+                className="shadow rounded-lg appearance-none border py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
                 id="name"
                 name="name"
                 type="text"
@@ -69,7 +69,7 @@ function Contact() {
               <label className="block text-gray-900">Message</label>
               <textarea
                 {...register("message", { required: true })}
-                className="shadow rounded-lg appearance-none border  py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+                className="shadow rounded-lg appearance-none border resize-none py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
                 id="message"
                 name="message"
                 type="text"

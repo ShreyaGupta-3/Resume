@@ -37,9 +37,6 @@ function Footer() {
                 </ul>
             </div>
             <div className="mt-8 border-t border-gray-700 pt-8 flex flex-col items-center">
-              <p className="text-sm">
-                &copy; 2024 All rights reserved.
-              </p>
               <p className="text-l font-bold">Made with ❤️ by Shreya</p>
             </div>
           </div>
